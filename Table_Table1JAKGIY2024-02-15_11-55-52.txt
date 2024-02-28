@@ -1,0 +1,12 @@
+=============BIENVENUE CHEZ RESTAURANT MA===========
+Numero de facture: JAKGIY
+Num de Table     : Table1
+Date et Heure    : 15/02/2024 11:55:52
+===================================================
+Nom               Prix                     Quantite
+===================================================
+cafe1               10                  1                   
+salade2             50                  2                   
+plat2               49                  4                   
+                Total: 306.00 Dhs
+=============Merci de votre visite===================

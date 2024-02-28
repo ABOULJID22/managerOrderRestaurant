@@ -1,0 +1,12 @@
+=============BIENVENUE CHEZ RESTAURANT MA===========
+Numero de facture: QQQ3E2
+Num de Table     : Table1
+Date et Heure    : 24/04/2023 22:27:14
+===================================================
+Nom               Prix                     Quantite
+===================================================
+cafe1               10                  4                   
+salade1             80                  5                   
+plat2               49                  2                   
+                Total: 538.00 Dhs
+=============Merci de votre visite===================

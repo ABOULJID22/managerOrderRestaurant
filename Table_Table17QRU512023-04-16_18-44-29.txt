@@ -1,0 +1,14 @@
+=============BIENVENUE CHEZ RESTAURANT MA===========
+Numero de facture: 7QRU51
+Num de Table     : Table1
+Date et Heure    : 16/04/2023 18:44:29
+===================================================
+Nom               Prix                     Quantite
+===================================================
+cafe1               10                  2                   
+jus                 99                  1                   
+lait                49                  1                   
+salade1             89                  3                   
+plat2               49                  2                   
+                Total: 533.00 Dhs
+=============Merci de votre visite===================
